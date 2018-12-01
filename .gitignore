@@ -4,6 +4,8 @@
 target/
 classes/
 
+src/main/resources/file.db
+
 # Intellij files and folders #
 #############################
 .idea/
