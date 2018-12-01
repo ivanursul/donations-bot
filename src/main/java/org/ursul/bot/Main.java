@@ -20,7 +20,7 @@ public class Main {
         String token = args[1];
 
         String path = args.length < 3 ?
-                "/Users/ivanursul/git/tersh_bot/src/main/resources/file.db" :
+                "/Users/ivanursul/Dropbox/file.db" :
                 args[2];
 
         DB db = DBMaker
